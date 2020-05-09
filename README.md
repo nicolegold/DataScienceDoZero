@@ -1,5 +1,6 @@
 # DataScienceDoZero
-
+Curso de aquecimento para a Maratona Data Science by Qoda | Abril, 2020
+---
 * [Python](https://github.com/nicolegold/DataScienceDoZero/blob/master/Python.ipynb)
 * [EndToEnd_Python](https://github.com/nicolegold/DataScienceDoZero/blob/master/AqueceMaratona2.ipynb)
 * [Deploy-Web](https://github.com/nicolegold/DataScienceDoZero/blob/master/Deploy_Web.ipynb)

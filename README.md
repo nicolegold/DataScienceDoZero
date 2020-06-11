@@ -10,5 +10,5 @@ Curso de aquecimento para a Maratona Data Science by Qoda | Abril, 2020
 * [ResultadoDesafios](https://github.com/nicolegold/DataScienceDoZero/blob/master/DesafiosDSDZ.ipynb)
 
 <p align="center">
-  <img src="https://github.com/nicolegold/DataScienceDoZero/blob/master/5e6a3735c3cb8.png?raw=true" >
+  <img src="https://raw.githubusercontent.com/nicolegold/DataScienceDoZero/master/5e6a3735c3cb8.png" >
 </p>

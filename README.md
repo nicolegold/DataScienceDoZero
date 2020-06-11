@@ -8,3 +8,7 @@ Curso de aquecimento para a Maratona Data Science by Qoda | Abril, 2020
 * [R](https://github.com/nicolegold/DataScienceDoZero/blob/master/R.ipynb)
 * [EndToEnd_R](https://github.com/nicolegold/DataScienceDoZero/blob/master/End_to_End_com_R.ipynb)
 * [ResultadoDesafios](https://github.com/nicolegold/DataScienceDoZero/blob/master/DesafiosDSDZ.ipynb)
+
+<p align="center">
+  <img src="https://github.com/nicolegold/DataScienceDoZero/blob/master/5e6a3735c3cb8.png?raw=true" >
+</p>
